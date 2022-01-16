@@ -15,10 +15,10 @@ gc1 = 'bit.ly/officialgrupkanaobot'
 gc2 = ''
 gc3 = ''
 global.linkGC = ['bit.ly/officialgrupkyurabot'] // ganti jadi group lu
-global.owner = ['6281998903280'] // Put your number here //owner eval
-global.kontak = ['6281998903280'] //Ketika ada yang ngetik #owner
-global.mods = ['6281998903280'] // Want some help?
-global.prems = ['6281998903280'] // Premium user has unlimited limit
+global.owner = ['6283830815715'] // Put your number here //owner eval
+global.kontak = ['6283830815715'] //Ketika ada yang ngetik #owner
+global.mods = ['6283830815715'] // Want some help?
+global.prems = ['6283830815715'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -48,8 +48,8 @@ xteamkey = '057f32b5931c3bce'
 namaig = 'bit.ly/instagramkyura'
 namagithub = 'bit.ly/githubkyura'
 kasihcaption = `Nihh...`
-namakontak1 = 'Kyura'
-namakontak2 = 'Ardhi'
+namakontak1 = 'Xrzz'
+namakontak2 = '𝑀𝑒𝑙𝑙 💫'
 
 //kasihcaption = `Nih Kak`
 
@@ -60,8 +60,8 @@ global.author = 'KyuraBOT' // ganti aja
 //yyy
 bc = 'KanaoBOT' //RFK Broadcast
 footer = '\n©Kyura'
-namabot = 'KanaoBOT'
-namalu = 'Kyura'
+namabot = 'ツˣᴿᶻズガx'
+namalu = '𝑀𝑒𝑙𝑙 💫'
 
 
 // 
