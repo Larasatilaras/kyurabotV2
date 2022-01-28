@@ -15,10 +15,10 @@ gc1 = 'bit.ly/officialgrupkanaobot'
 gc2 = ''
 gc3 = ''
 global.linkGC = ['bit.ly/officialgrupkyurabot'] // ganti jadi group lu
-global.owner = ['6287832147584'] // Put your number here //owner eval
-global.kontak = ['6287832147584'] //Ketika ada yang ngetik #owner
-global.mods = ['6287832147584'] // Want some help?
-global.prems = ['6287832147584'] // Premium user has unlimited limit
+global.owner = ['6285759662798'] // Put your number here //owner eval
+global.kontak = ['6285759662798'] //Ketika ada yang ngetik #owner
+global.mods = ['6285759662798'] // Want some help?
+global.prems = ['6285759662798'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -55,13 +55,13 @@ namakontak2 = '𝑀𝑒𝑙𝑙 💫'
 
 // Sticker WM
 global.packname = 'ItsMeLaras' // ganti aja
-global.author = 'PangeranBotZ' // ganti aja
+global.author = 'LarasBotz' // ganti aja
 
 //yyy
-bc = 'PangeranBotZ' //RFK Broadcast
-footer = '\n©AbengLORD々OFC彡'
-namabot = 'ツPangeranBotZズガx'
-namalu = 'AbengLORD💫'
+bc = 'LarasBotz' //RFK Broadcast
+footer = '\n©ItsmLaras々彡'
+namabot = 'ツLarasBotzズガx'
+namalu = 'ItsmeLaras💫'
 
 
 // 
